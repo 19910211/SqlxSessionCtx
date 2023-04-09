@@ -1,4 +1,4 @@
-module SqlxSessionCtx
+module github.com/19910211/SqlxSessionCtx
 
 go 1.20
 
