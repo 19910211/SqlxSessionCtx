@@ -2,7 +2,7 @@ package sessionctx
 
 import (
 	"context"
-	"go-zero/core/stores/sqlx"
+	"github.com/zeromicro/go-zero/core/stores/sqlx"
 )
 
 const _sqlxSessionKeyCtx = "__sqlxSessionKeyCtx"
